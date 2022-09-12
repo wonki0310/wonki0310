@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a student at Gachon University.
+I hope my codes will help you.
+Thank you.
+
+
 <!--
 **wonki0310/wonki0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
